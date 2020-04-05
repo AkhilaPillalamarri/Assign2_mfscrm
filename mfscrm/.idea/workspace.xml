@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6705bac3-e3e8-416c-a883-5edcd1bd40e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
@@ -96,6 +95,7 @@
       <workItem from="1585587198676" duration="21000000" />
       <workItem from="1585843426240" duration="6417000" />
       <workItem from="1585939099731" duration="833000" />
+      <workItem from="1586050122233" duration="656000" />
     </task>
     <servers />
   </component>
@@ -115,9 +115,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585593320688" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585843427165">
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586050180673">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585843427165" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586050180673" />
   </component>
 </project>
